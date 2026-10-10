@@ -1,0 +1,8 @@
+# Only reviewed documentation/channel files belong in Git.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!channel.json
+!manifest.schema.json
+!manifest.example.json

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "0.0.0-example",
+  "gameVersion": "1.14500.1321.41200",
+  "files": [
+    {
+      "path": "WarfaceLauncher.exe",
+      "size": 1,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "url": "https://github.com/DeMoN21207/warface-2017-updates/releases/download/v0.0.0-example/WarfaceLauncher.exe"
+    }
+  ]
+}
