@@ -1,8 +1,7 @@
 {
   "schemaVersion": 1,
-  "enabled": false,
+  "enabled": true,
   "channel": "stable",
-  "releasesUrl": "https://github.com/DeMoN21207/warface-2017-updates/releases",
-  "manifestAsset": "manifest.json",
-  "reason": "Updater and first release are not ready"
+  "version": "1.0.1",
+  "manifestUrl": "https://github.com/DeMoN21207/warface-2017-updates/releases/download/v1.0.1/manifest.json"
 }
