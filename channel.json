@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.0.1",
-  "manifestUrl": "https://github.com/DeMoN21207/warface-2017-updates/releases/download/v1.0.1/manifest.json"
+  "version": "1.0.2",
+  "manifestUrl": "https://github.com/DeMoN21207/warface-2017-updates/releases/download/v1.0.2/manifest.json",
+  "clientManifestUrl": "https://github.com/DeMoN21207/warface-2017-updates/releases/download/v1.0.2/client-manifest.json"
 }
